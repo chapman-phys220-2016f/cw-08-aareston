@@ -1,8 +1,8 @@
 # PHYS220 CW 8
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Preston Kamada and Aaron Grisez
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-08-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-08-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-08-aareston)
 
 **Due date:** 2016/10/25
 
@@ -28,4 +28,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Preston S Kamada
